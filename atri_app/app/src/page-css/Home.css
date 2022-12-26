@@ -1,0 +1,160 @@
+.p-Home.Flex2 {
+display: flex;
+justify-content: space-between;
+padding-left: 80px;
+padding-right: 60px;
+padding-top: 40px;
+padding-bottom: 40px;
+}
+.p-Home.Div5 {
+;
+}
+.p-Home.Flex3 {
+display: flex;
+row-gap: ;
+column-gap: 35px;
+padding-top: 7px;
+}
+.p-Home.Div8 {
+;
+}
+.p-Home.Flex5 {
+display: flex;
+justify-content: space-around;
+margin-top: ;
+align-items: center;
+align-content: stretch;
+}
+.p-Home.Div12 {
+align-self: flex-start;
+width: 630px;
+min-width: 0px;
+max-width: ;
+}
+.p-Home.Flex7 {
+display: flex;
+justify-content: flex-start;
+align-items: baseline;
+column-gap: 10px;
+margin-top: 20px;
+}
+.p-Home.Div13 {
+background-image: url("/app-assets/profile.jpeg");
+background-repeat: no-repeat;
+}
+.p-Home.Div14 {
+margin-top: 50px;
+}
+.p-Home.Div15 {
+;
+}
+.p-Home.Div18 {
+display: contents;
+margin-top: 200px;
+}
+.p-Home.Flex8 {
+display: flex;
+justify-content: center;
+column-gap: 60px;
+margin-top: 30px;
+}
+.p-Home.TextBox34 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 24px;
+}
+.p-Home.TextBox30 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.TextBox31 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.TextBox32 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.TextBox33 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.TextBox35 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.TextBox37 {
+color: ;
+line-height: 110%;
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 75px;
+}
+.p-Home.TextBox38 {
+padding-right: 5px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 75px;
+background-image: ;
+color: #e78896;
+width: ;
+}
+.p-Home.TextBox39 {
+margin-top: 24px;
+margin-bottom: 0px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 16px;
+color: #333333;
+}
+.p-Home.Button3 {
+color: #fff;
+background-color: #000000;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: ;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #000f;
+cursor: pointer;
+user-select: none;
+box-sizing: border-box;
+}
+.p-Home.TextBox41 {
+margin-left: 30px;
+margin-top: 10px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.Image2 {
+background-image: url("/app-assets/profile.jpeg");
+font-family: Roboto;
+word-wrap: initial;
+outline-color: ;
+width: 400px;
+}
+.p-Home.TextBox42 {
+align-self: center;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 19px;
+text-align: center;
+}
+.p-Home.Image3 {
+width: 115px;
+}
+.p-Home.Image4 {
+width: 115px;
+}
+.p-Home.Image5 {
+width: 115px;
+}
+.p-Home.Image6 {
+width: 120px;
+}
